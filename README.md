@@ -13,6 +13,7 @@
  
 * Socials
   * Discord: oxy#2000, 884211706581098507
+  * Telegram: https://t.me/i3gaps
   
 # FAQ
 **Q**: How old am I? I am 13 about to be 14.
