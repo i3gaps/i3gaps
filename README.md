@@ -18,4 +18,4 @@
 **Q**: How old am I? I am 13 about to be 14.
 
 ---
-![Profile View Counter](https://komarev.com/ghpvc/?username=i3gaps)
+![View Counter](https://gpvc.arturio.dev/<i3gaps>)
