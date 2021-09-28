@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">
+       hi, i'm oxy/cdn 👋
+</p>
 
-<!--
-**i3gaps/i3gaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Interests
+  * Javascript
+  * Python
+  * Talking to friends :3
+  
+  
+* Current Projects
+  * None at the moment.
+ 
+* Socials
+  * Discord: oxy#2000, 884211706581098507
+  
+# FAQ
+**Q**: How old am I?
+**A**: I am 13 about to be 14.
 
-Here are some ideas to get you started:
+**Q**: Do you like cats?
+**A**: Indeed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Q**: Did I steal this from Kyle?
+**A**: Indeed.
+---
+![Profile View Counter](https://komarev.com/ghpvc/?username=i3gaps)    
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i3gaps&theme=blue-green)   
+![My Discord](https://discord-readme-badge.vercel.app/api?id=884211706581098507)
