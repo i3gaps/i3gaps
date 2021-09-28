@@ -16,8 +16,8 @@
   
 # FAQ
 **Q**: How old am I? I am 13 about to be 14.
-
 **Q**: Do you like cats? Indeed.
+
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=i3gaps)    
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i3gaps&theme=blue-green)   
