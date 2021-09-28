@@ -15,14 +15,9 @@
   * Discord: oxy#2000, 884211706581098507
   
 # FAQ
-**Q**: How old am I?
-**A**: I am 13 about to be 14.
+**Q**: How old am I? I am 13 about to be 14.
 
-**Q**: Do you like cats?
-**A**: Indeed.
-
-**Q**: Did I steal this from Kyle?
-**A**: Indeed.
+**Q**: Do you like cats? Indeed.
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=i3gaps)    
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i3gaps&theme=blue-green)   
