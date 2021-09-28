@@ -18,4 +18,4 @@
 **Q**: How old am I? I am 13 about to be 14.
 
 ---
-![View Counter](https://gpvc.arturio.dev/<i3gaps>)
+![View Counter](https://gpvc.arturio.dev/i3gaps)
