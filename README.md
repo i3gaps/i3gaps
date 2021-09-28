@@ -19,6 +19,4 @@
 **Q**: Do you like cats? Indeed.
 
 ---
-![Profile View Counter](https://komarev.com/ghpvc/?username=i3gaps)    
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i3gaps&theme=blue-green)   
-![My Discord](https://discord-readme-badge.vercel.app/api?id=884211706581098507)
+![Profile View Counter](https://komarev.com/ghpvc/?username=i3gaps)
