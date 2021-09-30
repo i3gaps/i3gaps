@@ -1,5 +1,5 @@
 <p align="center">
-       hi, i'm oxy/cdn 👋
+       hi 👋
 </p>
 
 * Interests
@@ -12,7 +12,7 @@
   * None at the moment.
  
 * Socials
-  * Discord: oxy#2000, 884211706581098507
+  * Discord: stars in my wraith#0001, 884211706581098507
   * Telegram: https://t.me/i3gaps
   
 # FAQ
