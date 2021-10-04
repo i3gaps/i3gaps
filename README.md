@@ -12,7 +12,7 @@
   * None at the moment.
  
 * Socials
-  * Discord: stars in my wraith#0001, 884211706581098507
+  * Discord: a0263654f995df33f6883a7b3ff70d06#0001, 884211706581098507
   * Telegram: https://t.me/i3gaps
   
 # FAQ
