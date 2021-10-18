@@ -1,18 +1,18 @@
 <p align="center">
-       hi 👋
+       hello, i'm shadow 👋
 </p>
 
 * Interests
   * Javascript
   * Python
-  * Talking to friends :3
+  * My kittens
   
   
 * Current Projects
   * None at the moment.
  
 * Socials
-  * Discord: a0263654f995df33f6883a7b3ff70d06#0001, 884211706581098507
+  * Discord: shadow#3333, 898420656725704705
   * Telegram: https://t.me/i3gaps
   
 # FAQ
